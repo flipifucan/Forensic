@@ -38,3 +38,7 @@
 
 ![test](IMAGE/stamp-commandline.png)
 
+![test](IMAGE/consolidatedGEO.png)
+
+![test](IMAGE/Tracys-photos.png)
+
