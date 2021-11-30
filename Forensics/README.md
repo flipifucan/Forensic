@@ -41,8 +41,8 @@ On January 21, 2016, Digitech Inc. was called in to assist the National Gallery,
 
 As described fully in the report, Digitech, Inc. made the following findings. 1. Digitech Inc. found evidence that indicated Tracy was using the alias Coral and Pat was using the alias Perry. 2. Digitech Inc. found evidence that indicated Tracy was motivated by financial gain in planning the stamp heist. 3. Digitech Inc. found evidence of email correspondence to what is believed to be Tracy’s personal email and Pat containing the National Gallery DC stamp letters. 4. Digitech Inc. found evidence indicating Tracy was formulating a plan to steal stamps with her brother Pat. Additionally, Digitech Inc found evidence indicating Tracy knew that Pat was trying to force someone named King to help him with the heist. 5. Digitech Inc. found evidence indicating Tracy helped an individual named Carry for financial gain. The evidence included leaking sensitive security rotation information about the National Gallery to Carry. Furthermore, there is evidence indicating that Tracy helped Carry smuggle a tablet into the Gallery. However, there is evidence indicating that Tracy was unaware of the bigger plan that Carr
 
-Equipment and Tools
-The following tools were used for forensic analysis: 
+#### Equipment and Tools
+##### The following tools were used for forensic analysis: 
 1. Autopsy 4.10.0 2.
 2. Google Search 
 3. Google Maps
@@ -175,15 +175,8 @@ Group members:
 |34|7/13/2012 1:02:10|From: Terry To: Tracy|I really want to go to Dad's this weekend. He said he'll take me shopping for school|SMS-Message Data|
 
 
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-        <string>+15713083236</string>
-</array>
-</plist>
 
-#### Conclusion
+### Conclusion
 Evidence found on Tracy’s iPhone indicated the following:
  ● Tracy was using the alias Coral and Pat was using the alias Perry
  ● Tracy’s prime motive was financial gain for planning the stamp heist.
@@ -202,7 +195,7 @@ This subsection will provide an amalgamation of the email and SMS corresponce ev
 This subsection will provide an amalgamation of the email and SMS corresponce evidence. 
 
 
-Screenshots here for the sms.db
+##### Screenshots here for the sms.db
 
 -------------
 
@@ -302,23 +295,3 @@ On dates 2012-07-08 and 2012-07-11, evidence shows random pictures and pictures 
 |IMG_0069.JPG 2012-07-08 01:00:23|![test](IMAGE/IMG_0069.JPG)|/img_tracy-phone-2012-07-15-final.E01/vol_vol5/MOBILE/MEDIA/DCIM/100APPLE/|
 |IMG_0070.JPG 2012-07-08 01:02:23|![test](IMAGE/IMG_0070.JPG)|/img_tracy-phone-2012-07-15-final.E01/vol_vol5/MOBILE/MEDIA/DCIM/100APPLE/|
 |IMG_0071.JPG 2012-07-11 12:18:48|![test](IMAGE/IMG_0071.JPG)|/img_tracy-phone-2012-07-15-final.E01/vol_vol5/MOBILE/MEDIA/DCIM/100APPLE/|
-
-
-
-
-
-
-		 	 	 		
-			
-				
-					
- 
-				
-			
-		
-
-
-
-
-
-
